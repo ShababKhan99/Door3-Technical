@@ -5,8 +5,8 @@ This technical creates a book store CRUD application, which I saw more as an enc
 ## How to run the app
 
 You must have a bash terminal of your choosing open for both backend and frontend folders, and 
->npm install 
+`npm install`
 if not done already previously. After having the terminal open  for both folders, start by running 
->npm start
+`npm start`
 for the backend, and then do the same for the frontend folder, and the app should open right up.
 
