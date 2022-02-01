@@ -1,0 +1,9 @@
+.App {
+  box-shadow: inset 0 0 0 1000px rgba(60, 18, 102,.65);
+  background-image: url('BackgroundImage.jpg');
+  min-height: 100vh;
+}
+
+.App-link {
+  color: #61dafb;
+}
